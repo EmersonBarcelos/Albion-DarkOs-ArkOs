@@ -1,7 +1,5 @@
 # Albion - PortMaster (ARM64) 🌍
 
-![Albion Banner](https://via.placeholder.com/800x250?text=Albion+PortMaster)
-
 *(Read in [English](#english) | Leia em [Português](#português))*
 
 ---
