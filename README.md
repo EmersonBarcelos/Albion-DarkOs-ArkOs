@@ -1,6 +1,6 @@
 <div align="center">
 
-# Albion - PortMaster (ARM64) 🌍
+# Albion - PortMaster (Darkos/Arkos) 🌍
 
 [![English](https://img.shields.io/badge/Language-English-blue?style=for-the-badge)](#-english)
 [![Português](https://img.shields.io/badge/Idioma-Português-green?style=for-the-badge)](#-português)
